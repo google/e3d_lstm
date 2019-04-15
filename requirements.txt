@@ -1,0 +1,6 @@
+tensorflow>=1.0
+opencv3
+scikit-image
+numpy
+cuda>=8.0
+cudnn>=5.0
