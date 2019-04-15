@@ -26,6 +26,9 @@ features. We evaluate the E3D-LSTM network on (a) future video prediction
 recognition to infer what is happening or what will happen after observing
 only limited frames of video.
 
+![Method](images/e3d_lstm_framework.png)
+
+
 
 ## Setup
 
