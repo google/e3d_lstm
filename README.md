@@ -108,6 +108,6 @@ To test a model, set `--is_training False`.
 
 First download our pretrained models. You can test it on the dataset:
 
-* [Moving MNIST](https://storage.googleapis.com/e3d_lstm/pretrained_models/kth_e3d_lstm_pretrain.zip)
-* [KTH Actions](https://storage.googleapis.com/e3d_lstm/pretrained_models/moving_mnist_e3d_lstm_pretrain.zip)
+* [Moving MNIST](https://storage.googleapis.com/e3d_lstm/pretrained_models/moving_mnist_e3d_lstm_pretrain.zip)
+* [KTH Actions](https://storage.googleapis.com/e3d_lstm/pretrained_models/kth_e3d_lstm_pretrain.zip)
 
