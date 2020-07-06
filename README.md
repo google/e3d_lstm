@@ -111,4 +111,4 @@ First download our pretrained models. You can test it on the dataset:
 * [Moving MNIST](https://storage.googleapis.com/e3d_lstm/pretrained_models/moving_mnist_e3d_lstm_pretrain.zip)
 * [KTH Actions]()
 
-We noticed that there is a bug in the current code about "global_memory" which may cause for the mismatched pretrained models on the KTH dataset. As this code repo was reproduced after the first author left Google, this issue did not exist in our original experiments and the results reported in the paper are good. We are working on fixing this issue and refreshing our pre-trained KTH models. We apologize for the inconvenience and thank you for your patience.
+We noticed that there is a bug in the current code about "global_memory" which may be the cause for the mismatched pretrained models on the KTH dataset. As this code repo was reproduced after the first author left Google, this issue did not exist in our original experiments and the results reported in the paper are good. We are working on fixing this issue and refreshing our pre-trained KTH models. We apologize for the inconvenience and thank you for your patience.
